@@ -16,9 +16,9 @@
 
 ## Результаты:
 ```
-- ├── outputs/results.json                #пробный вариант,который использовал данные категории (Support, Sales, Bug) и базовый промт
-- ├── outputs/results_cat_feed.json       #вариант,который использовал изменный список категории (Support, Sales, Feedback) и базовый промт
-- ├── outputs/results_improved_promt.json #добавление к пердыдущему варианту улучешенного промта
+- ├── outputs/results.json                # пробный вариант,который использовал данные категории (Support, Sales, Bug) и базовый промт
+- ├── outputs/results_cat_feed.json       # вариант,который использовал изменный список категории (Support, Sales, Feedback) и базовый промт
+- ├── outputs/results_improved_promt.json # добавление к предыдущему варианту улучшенного промта
 ```
 
 
