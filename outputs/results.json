@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "text": "Курьер опоздал на час, но пицца была горячая.",
+    "category": "Support",
+    "sentiment": "neutral",
+    "raw_response": "{\"category\": \"Support\", \"sentiment\": \"neutral\"}"
+  },
+  {
+    "id": 2,
+    "text": "Ужасное приложение, постоянно вылетает при оплате!",
+    "category": "Bug",
+    "sentiment": "negative",
+    "raw_response": "{\"category\": \"Bug\", \"sentiment\": \"negative\"}"
+  },
+  {
+    "id": 3,
+    "text": "Спасибо, все вкусно.",
+    "category": "Sales",
+    "sentiment": "positive",
+    "raw_response": "{\"category\": \"Sales\", \"sentiment\": \"positive\"}"
+  },
+  {
+    "id": 4,
+    "text": "Ценник конский, а порции стали меньше. Больше не закажу.",
+    "category": "Sales",
+    "sentiment": "negative",
+    "raw_response": "{\"category\": \"Sales\", \"sentiment\": \"negative\"}"
+  },
+  {
+    "id": 5,
+    "text": "Подскажите, есть ли у вас доставка в район Химки?",
+    "category": "Sales",
+    "sentiment": "neutral",
+    "raw_response": "{\"category\": \"Sales\", \"sentiment\": \"neutral\"}"
+  }
+]
