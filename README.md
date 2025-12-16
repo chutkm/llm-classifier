@@ -24,7 +24,8 @@ llm-classifier/
 │   └── utils.py           # Вспомогательные модули
 ├── requirements.txt       # Зависимости Python
 ├── README.md              # Документация проекта
-└── .gitignore```
+└── .gitignore
+```
 
 
 ## Требования
