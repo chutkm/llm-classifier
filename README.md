@@ -47,4 +47,6 @@ llm-classifier/
 pip install -r requirements.txt
 ```
 3.Настройте переменные окружения для доступа к LLM API:
-```export HF_TOKEN=""```
+```
+export HF_TOKEN=""
+```
